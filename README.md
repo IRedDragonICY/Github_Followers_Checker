@@ -29,7 +29,7 @@ pip install beautifulsoup4
 Run the script using Python.
 
 ```bash
-python GithubUserFollowStatusChecker.py
+python main.py
 ```
 
 When prompted, enter your GitHub username.
